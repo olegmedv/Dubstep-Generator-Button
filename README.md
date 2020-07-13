@@ -9,4 +9,7 @@ It is constructor, it can play 3 samples at the same time.
 
 It takes randomly 3 samples from folder 'wub', 'pluck', 'drums' and play it.
 
+Demo at:
+https://olegmedv.github.io/Dubstep-Generator-Button/#
+
 
