@@ -1,5 +1,4 @@
 # Dubstep-Generator-Button
-<h1>Dubstep Generator Button</h1>
 
 ![image](https://user-images.githubusercontent.com/63075175/219885043-52c4c2f3-0411-4b07-8b4a-a0361fbe9ffc.png)
 
